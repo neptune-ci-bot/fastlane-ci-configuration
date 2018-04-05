@@ -1,0 +1,18 @@
+[
+  {
+    "id": "3cc36783-f888-4fdb-a41e-d72189d4b5ae",
+    "email": "neptune.ci.bit@gmail.com",
+    "password_hash": "$2a$10$J/WlOYKW5r1bbCrwJgFIbuARVRNbISPBMjeeJsgin9XSadSCjlTh2",
+    "provider_credentials": [
+      {
+        "id": "35d369e7-ad2e-443f-a436-9623af5d13a0",
+        "email": "neptune.ci.bot@gmail.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "qhLZK+5yW591aCH9+fN8S6V8yxAQe1EZB/kZwzdqr9yakWyzBHTKRXldOcvE\nhs5IHhf+rKG3UMX7nqkw/LuFbA==\n"
+      }
+    ]
+  }
+]
